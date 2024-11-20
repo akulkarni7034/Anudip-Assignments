@@ -25,6 +25,6 @@ Each problem is accompanied by clear steps and example solutions to help users u
 
 By solving this assignment :
 
--I have Gained a deeper understanding of conditional formatting in Excel.
--Learnt how to apply different types of formatting rules effectively.
--It enhanced my data visualization and analysis skills.
+I have Gained a deeper understanding of conditional formatting in Excel.
+Learnt how to apply different types of formatting rules effectively.
+It enhanced my data visualization and analysis skills.
