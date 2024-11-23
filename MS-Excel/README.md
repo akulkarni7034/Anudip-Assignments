@@ -1,4 +1,4 @@
-# Microsoft Excel Problem-Solving Project
+# Microsoft Excel Assignment
 
 This assignment is a collection of solutions to a variety of questions and challenges in **Microsoft Excel**. It demonstrates the practical application of Excel's powerful features and functions to solve real-world data analysis and management problems.
 
