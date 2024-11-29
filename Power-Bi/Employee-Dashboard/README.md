@@ -41,6 +41,6 @@ This project is ideal for HR teams, managers, and decision-makers who need real-
 
 **Technologies Used:**
 
-Power BI
-Power Query Editor
-DAX Functions.
+1. Power BI
+2. Power Query Editor
+3. DAX Functions.
