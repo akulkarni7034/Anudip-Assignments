@@ -24,7 +24,7 @@ Aesthetic and user-friendly interface.
 Synchronized slicers for seamless navigation.
 Advanced formatting for clarity and appeal.
 
-### Technical Highlights:
+### 🌐Technical Highlights:
 
 **Data Preparation:**
 Cleaned and transformed raw data using Power Query Editor.
@@ -39,7 +39,7 @@ Deployed the dashboard to Power BI Service for collaboration with stakeholders.
 **Usage:**
 This project is ideal for HR teams, managers, and decision-makers who need real-time insights into employee data to drive organizational growth.
 
-**🌐Technologies Used:**
+**Technologies Used:**
 
 1. Power BI
 2. Power Query Editor
