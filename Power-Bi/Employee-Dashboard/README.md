@@ -12,7 +12,7 @@ Performance Metrics: Track KPIs such as sales targets, project milestones, and p
 Training and Development: Assess training completion rates and certifications.
 Attendance and Leave Management: Review trends and ensure compliance.
 
-**🔍 Interactive Features:**
+### 🔍 Interactive Features:
 
 **Drill-Down Functionality:** Dive deep into department or individual-level data.
 Filtering Options: Customize dashboard views with slicers and filters.
@@ -24,7 +24,7 @@ Aesthetic and user-friendly interface.
 Synchronized slicers for seamless navigation.
 Advanced formatting for clarity and appeal.
 
-**Technical Highlights:**
+### Technical Highlights:
 
 **Data Preparation:**
 Cleaned and transformed raw data using Power Query Editor.
