@@ -5,7 +5,7 @@ The Employee Dashboard is a dynamic and interactive tool built using Power BI to
 
 ## Features
 
-**📊 Comprehensive Metrics:**
+###📊 Comprehensive Metrics:
 
 **Employee Engagement:** Monitor satisfaction, retention rates, and engagement levels.
 Performance Metrics: Track KPIs such as sales targets, project milestones, and productivity.
