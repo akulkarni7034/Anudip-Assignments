@@ -34,4 +34,6 @@ By working through this assignment:
 
 - I have gained proficiency in writing and optimizing SQL queries.  
 - Learnt to handle real-world database challenges effectively.  
-- Understood key database concepts, including normalization, relationships, and indexing.  
+- Understood key database concepts, including normalization, relationships, and indexing.
+
+kijuiedtyfeydf 
