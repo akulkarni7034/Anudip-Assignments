@@ -36,4 +36,3 @@ By working through this assignment:
 - Learnt to handle real-world database challenges effectively.  
 - Understood key database concepts, including normalization, relationships, and indexing.
 
-kijuiedtyfeydf 
