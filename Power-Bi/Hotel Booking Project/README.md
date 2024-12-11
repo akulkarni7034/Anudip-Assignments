@@ -48,7 +48,7 @@ The **Hotel Booking Dashboard** presents various metrics and trends derived from
 
 - **`Project_report_dashboard.pbix`**: Power BI file containing the dashboard and visualizations.
 - **Screenshots**: A preview of the dashboard for quick reference.
-- **Dataset**: Not included due to data sensitivity, but instructions for dataset preparation are provided below.
+- **Dataset**: Not included due to data sensitivity.
 
 
 
