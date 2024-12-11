@@ -1,4 +1,4 @@
-# Hotel Booking Dashboard - Power BI Project
+# Hotel Booking Dashboard 
 
 This repository contains a comprehensive Power BI dashboard created to analyze and visualize key insights related to hotel bookings. The project focuses on understanding booking patterns, customer behavior, and operational performance, providing valuable insights for decision-making in the hospitality industry.
 
